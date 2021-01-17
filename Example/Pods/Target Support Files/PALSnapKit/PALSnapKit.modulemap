@@ -1,0 +1,6 @@
+framework module PALSnapKit {
+  umbrella header "PALSnapKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

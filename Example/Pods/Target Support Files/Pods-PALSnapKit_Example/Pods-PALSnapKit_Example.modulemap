@@ -1,0 +1,6 @@
+framework module Pods_PALSnapKit_Example {
+  umbrella header "Pods-PALSnapKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

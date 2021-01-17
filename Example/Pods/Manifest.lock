@@ -1,0 +1,23 @@
+PODS:
+  - PALSnapKit (0.1.0):
+    - SnapKit (= 5.0.1)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - PALSnapKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  PALSnapKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PALSnapKit: ea43d7f1f5ca68325c025de9e3fff9b56581a58f
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 45318bac5dac715964a2b2b826985d2c21d039e5
+
+COCOAPODS: 1.10.0
